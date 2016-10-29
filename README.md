@@ -7,4 +7,4 @@ npm start
 
 api run on port 3001
 
-eg: localhost:3001/api/test
+eg: http://localhost:3001/api/test
