@@ -1,0 +1,15 @@
+{
+  "name": "nhr",
+  "version": "1.0.0",
+  "description": "react run on node server",
+  "author": "nhr",
+  "license": "ISC",
+  "scripts": {
+    "start": "nf start -p 3000",
+    "server": "./node_modules/.bin/babel-node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "foreman": "^2.0.0"
+  }
+}
