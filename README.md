@@ -5,3 +5,6 @@ npm i && cd client && npm i && cd ..
 
 npm start
 
+api run on port 3001
+
+eg: localhost:3001/api/test
